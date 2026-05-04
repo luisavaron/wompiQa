@@ -1,0 +1,6 @@
+stepdefinitions/TransactionSteps.class
+client/WompiClient.class
+utils/SignatureUtil.class
+runners/TestRunner.class
+builders/TransactionBuilder.class
+utils/Config.class
